@@ -1,0 +1,22 @@
+﻿{
+  "latestnews": [
+    {
+      "title": "title 1 ",
+      "Content": "content 1 ",
+      "rating": "5/10",
+      "datetime": "Mon, 14 Dec 2020 2:01:59 +0000 "
+    },
+    {
+      "title": "title 2 ",
+      "Content": "content 2 ",
+      "rating": "9/10",
+      "datetime": "Mon, 14 Dec 2020 14:02:59 +0000 "
+    },
+    {
+      "title": "title 3 ",
+      "Content": "content 3 ",
+      "rating": "2/10",
+      "datetime": "Mon, 14 Dec 2020 6:04:59 +0000 "
+    }
+  ]
+}
